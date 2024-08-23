@@ -19,5 +19,5 @@ components:
       type: http
       scheme: bearer
       description: |-
-        Bearer authentication specifies a bearer token in the 'Authorization' header following the format:
+        Test Bearer authentication specifies a bearer token in the 'Authorization' header following the format:
         Authorization: Bearer <token>
